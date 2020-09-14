@@ -1,33 +1,33 @@
 # 第４回ワークショップ 人間行動と社会のモデリング
-# 参考図書
+## 参考図書
 参考となる図書について，講演者の著書を中心に集めてみました．
 書籍の選択は永原が行いました．偏りがあるかもしれませんがご了承ください．
 
 - ダイナミックプライシングの参考文献について，谷口先生よりご紹介がありましたので，追加いたしました(2020年9月13日)．
 - 因果推論・ランダム化比較試験とデザイン思考の参考文献について，牛房先生よりご紹介がありましたので，追加いたしました（2020年9月14日）
 
-## 行動経済学
+### 行動経済学
 - 依田 高典, [行動経済学―感情に揺れる経済心理](https://www.amazon.co.jp/dp/4121020413/ref=cm_sw_em_r_mt_dp_gxZwFbYDYDDA4) (中公新書) (日本語) 新書
 - 依田 高典, [「ココロ」の経済学: 行動経済学から読み解く人間のふしぎ](https://www.amazon.co.jp/dp/4480069313/ref=cm_sw_em_r_mt_dp_zyZwFb3JNFJY1) (ちくま新書1228) (日本語) 新書
 - 依田 高典ほか, [機械学習は経済学を変えるのか？ 経済セミナーe-Book [プリント・レプリカ] Kindle版](https://www.amazon.co.jp/gp/product/B082VX1MGP/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)
 
-## 因果推論・ランダム化比較試験
+### 因果推論・ランダム化比較試験
 - 中室、津川（2017）[「原因と結果」の経済学―データから真実を見抜く思考法](https://www.amazon.co.jp/dp/447803947X/ref=cm_sw_em_r_mt_dp_3ZVxFbYNRN56G)、ダイヤモンド社
 - 伊藤 公一朗（2017）、[データ分析の力 因果関係に迫る思考法](https://www.amazon.co.jp/dp/4334039863/ref=cm_sw_em_r_mt_dp_v0VxFbXE1CRGE) (光文社新書)
 - エステル・デュフロほか（2019）、[政策評価のための因果関係の見つけ方 ランダム化比較試験入門](https://www.amazon.co.jp/dp/4535559341/ref=cm_sw_em_r_mt_dp_R0VxFb484T1P5)、日本評論社
 - 依田、田中、伊藤（2017）、[スマートグリッド・エコノミクス](https://www.amazon.co.jp/dp/464116505X/ref=cm_sw_em_r_mt_dp_k1VxFb5X39V3N)、有斐閣
 
-## デザイン思考
+### デザイン思考
 - 佐宗邦威（2015）、[21世紀のビジネスにデザイン思考が必要な理由](https://www.amazon.co.jp/dp/4844374214/ref=cm_sw_em_r_mt_dp_N1VxFbW653TA1)、クロスメディア・パブリッシング(インプレス)
 - ジャスパー・ウ（2019）、[実践 スタンフォード式 デザイン思考 世界一クリエイティブな問題解決](https://www.amazon.co.jp/dp/4295007323/ref=cm_sw_em_r_mt_dp_Y2VxFbZ5ZK2KA)、インプレス
 - スティーブン・ウェンデル（2020）、[行動を変えるデザイン ―心理学と行動経済学をプロダクトデザインに活用する](https://www.amazon.co.jp/dp/4873119146/ref=cm_sw_em_r_mt_dp_q3VxFbH13KJH4)、オライリージャパン
 
-## 人工知能
+### 人工知能
 - 谷口忠大，[賀茂川コミュニケーション塾ービブリオバトルから人工知能まで](https://www.amazon.co.jp/dp/4790717372/ref=cm_sw_em_r_mt_dp_PCZwFb9KZY77A) (教養みらい選書) (日本語) 単行本（ソフトカバー）
 - 谷口忠大，[イラストで学ぶ 人工知能概論](https://www.amazon.co.jp/dp/4061538233/ref=cm_sw_em_r_mt_dp_6EZwFbNAST5ED) (KS情報科学専門書) (日本語) 単行本（ソフトカバー）
 - 谷口忠大，[心を知るための人工知能: 認知科学としての記号創発ロボティクス](https://www.amazon.co.jp/dp/4320094654/ref=cm_sw_em_r_mt_dp_eGZwFb2NZK4X2) (越境する認知科学)
 
-## ダイナミックプライシング
+### ダイナミックプライシング
 - Tadahiro Taniguchi, Koki Kawasaki, Yoshiro Fukui, Tomohiro Takata and Shiro Yano,  Automated Linear Function Submission-Based Double Auction as Bottom-up Real-Time Pricing in a Regional Prosumers’ Electricity Network,  Energies, 8(7), pp.7381-7406, 2015. [doi:10.3390/en8077381](https://www.mdpi.com/1996-1073/8/7/7381) (Open Access)
 
 - Tadahiro Taniguchi, Tomohiro Takata, Yoshiro Fukui and Koki Kawasaki, Convergent Double Auction Mechanism for a Prosumers’ Decentralized Smart Grid, Energies, 8(11), pp12342-12361, 2015. [doi:10.3390/en81112315](https://www.mdpi.com/1996-1073/8/11/12315) (Open Access)
@@ -47,10 +47,10 @@
 - D. P. Palomar, “A tutorial on decomposition methods for network utility maximization,” IEEE J. Sel. Areas Commun., vol. 24, no. 8, pp. 1439-1451, Aug. 2006.
 ([pdf](http://www.princeton.edu/~chiangm/decomptutorial.pdf))
 
-## 深層学習/強化学習
+### 深層学習/強化学習
 - Goodfellowほか，[深層学習](https://www.amazon.co.jp/dp/4048930621/ref=cm_sw_em_r_mt_dp_4SZwFbEM807F5)，KADOKAWA
 - Sutton & Barto, [強化学習](https://www.amazon.co.jp/dp/4627826613/ref=cm_sw_em_r_mt_dp_oVZwFb37WYS9Q),森北出版
 
-## クラウドソーシング
+### クラウドソーシング
 - 鹿島久嗣ほか，[ヒューマンコンピュテーションとクラウドソーシング](https://www.amazon.co.jp/dp/4061529137/ref=cm_sw_em_r_mt_dp_tKZwFbFKSC3WN)
 - 森嶋 厚行，[クラウドソーシングが不可能を可能にする: 小さな力を集めて大きな力に変える科学と方法](https://www.amazon.co.jp/dp/4320009320/ref=cm_sw_em_r_mt_dp_EMZwFb63VXNVV) (共立スマートセレクション)
