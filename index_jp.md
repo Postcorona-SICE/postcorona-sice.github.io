@@ -9,7 +9,7 @@ SICEでは，ポストコロナ未来社会ワーキンググループを2020年
 - **開催** オンライン開催
 - **主催** 計測自動制御学会 (SICE)
 - **企画** SICEポストコロナ未来社会WG
-- **共催** システム制御情報学会
+- **共催** システム制御情報学会，横幹連合
 - **ウェブページ** [https://postcorona-sice.github.io/ws2020_5.html](https://postcorona-sice.github.io/ws2020_5.html)
 
 
@@ -23,6 +23,14 @@ SICEでは，ポストコロナ未来社会ワーキンググループを2020年
 - **共催** （一社）日本フルードパワーシステム学会，SICE制御部門
 - **協賛** SICEポストコロナ未来社会WG
 - **ウェブページ** [https://www.sice.or.jp/ia-div/2020_taikai_sanka_boshu.html](https://www.sice.or.jp/ia-div/2020_taikai_sanka_boshu.html)
+
+### 第6回ワークショップ **「ソフトロボティクスが革新するニューノーマル」** を開催します！
+ワークショップの第6弾も開催予定です！テーマは **ソフトロボティクス** です．ぜひご参加ください！
+- **日時** ２０２０年11月28日（金）１３：００〜１8：００
+- **開催** オンライン開催
+- **主催** 計測自動制御学会 (SICE)
+- **企画** SICEポストコロナ未来社会WG
+- **ウェブページ** [https://postcorona-sice.github.io/ws2020_6.html](https://postcorona-sice.github.io/ws2020_6.html)
 
 ---
 ## 活動記録
@@ -70,15 +78,15 @@ SICEでは，ポストコロナ未来社会ワーキンググループを2020年
 
 ## メンバー
 - SICE会長 小野晃, 産業技術総合研究所
-- 主査：[藤田政之](https://www.scl.ipc.i.u-tokyo.ac.jp/member2/fujita/fujitae.html), 東京大学
+- SICE副会長 [藤田政之](https://www.scl.ipc.i.u-tokyo.ac.jp/member2/fujita/fujitae.html), 東京大学
 - 顧問：前田章, JST
 - 顧問：小川雅晴, 三菱電機
-- 幹事：[永原正章](https://nagahara-masaaki.github.io), 北九州市立大学
+- 主査：[永原正章](https://nagahara-masaaki.github.io), 北九州市立大学
+- 幹事：[望山洋](http://www.frlab.iit.tsukuba.ac.jp/member/motiyama.html), 筑波大学
 - 委員：[飯野穣](https://researchmap.jp/yutakaiino?lang=en), 早稲田大学
 - 委員：[谷口忠大](http://www.tanichu.com/), 立命館大学
 - 委員：[畑中健志](http://is.eei.eng.osaka-u.ac.jp/hatanaka/index.php), 東京工業大学
 - 委員：[林和則](https://kazunorihayashi.github.io/index_e.html), 京都大学
 - 委員：[堀豊](https://hori.appi.keio.ac.jp/en), 慶應義塾大学
 - 委員：[牧野泰才](https://www.k.u-tokyo.ac.jp/pros-e/person/yasutoshi_makino/yasutoshi_makino.htm), 東京大学
-- 委員：[望山洋](http://www.frlab.iit.tsukuba.ac.jp/member/motiyama.html), 筑波大学
 
