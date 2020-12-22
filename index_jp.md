@@ -6,7 +6,7 @@ SICEでは，ポストコロナ未来社会ワーキンググループを2020年
 ---
 ## News
 - 第6回ワークショップ **「ソフトロボティクスが革新するニューノーマル」** が11月28日（金）に開催されました！詳細は[こちら](https://postcorona-sice.github.io/ws2020_6.html)をご覧ください！
-- **[重要なお知らせ]** [ポストコロナ未来社会ワークショップで利用したイベント管理アプリPeatixへの不正アクセスについて](https://postcorona-sice.github.io/peatix_note.html)
+- **[重要なお知らせ]** [ポストコロナ未来社会ワークショップで利用したイベント管理アプリPeatixへの不正アクセスについて](https://postcorona-sice.github.io/peatix_note)
 - SICE産業応用部門2020年度大会に協賛しました！詳細は[こちら](https://www.sice.or.jp/ia-div/2020_taikai_sanka_boshu.html)を御覧ください！
 - 第5回ワークショップ **「コロナ時代のモビリティ」** が10月30日（金）に開催されました！詳細は[こちら](https://postcorona-sice.github.io/ws2020_5.html)を御覧ください！
 - 第4回ワークショップ **「人間行動と社会のモデリング〜経済・AI・制御の接点〜」** が9月11日（金）に開催されました！詳細は[こちら](https://postcorona-sice.github.io/ws2020_4.html)を御覧ください！
