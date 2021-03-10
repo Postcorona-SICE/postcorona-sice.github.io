@@ -52,11 +52,11 @@ SICEでは，ポストコロナ未来社会ワーキンググループを2020年
 ---
 
 ## メンバー
-- SICE会長 小野晃, 産業技術総合研究所
-- SICE副会長 [藤田政之](https://www.scl.ipc.i.u-tokyo.ac.jp/member2/fujita/fujitae.html), 東京大学
+- 主査：[永原正章](https://nagahara-masaaki.github.io), 北九州市立大学
+- SICE会長 [藤田政之](https://www.scl.ipc.i.u-tokyo.ac.jp/member2/fujita/fujitae.html), 東京大学
+- 顧問：小野晃, 産業技術総合研究所
 - 顧問：前田章, JST
 - 顧問：小川雅晴, 三菱電機
-- 主査：[永原正章](https://nagahara-masaaki.github.io), 北九州市立大学
 - 幹事：[望山洋](http://www.frlab.iit.tsukuba.ac.jp/member/motiyama.html), 筑波大学
 - 委員：[飯野穣](https://researchmap.jp/yutakaiino?lang=en), 早稲田大学
 - 委員：[谷口忠大](http://www.tanichu.com/), 立命館大学
