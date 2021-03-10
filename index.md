@@ -36,15 +36,15 @@ The proposal of the working group will provide an opportunity for researchers an
 
 
 ## Member
-- Akira Ono, SICE President, AIST
-- [Masayuki Fujita](https://www.scl.ipc.i.u-tokyo.ac.jp/member2/fujita/fujitae.html), WG Leader, SICE Vice-President, The University of Tokyo
+- [Masaaki Nagahara](https://nagahara-masaaki.github.io), Chair, The University of Kitakyushu
+- [Masayuki Fujita](https://www.scl.ipc.i.u-tokyo.ac.jp/member2/fujita/fujitae.html), SICE President, The University of Tokyo
+- Akira Ono, Adviser, AIST
 - Akira Maeda, Adviser, JST
 - Masaharu Ogawa, Adviser, Mitsubishi Electric
-- [Masaaki Nagahara](https://nagahara-masaaki.github.io), Secretary, The University of Kitakyushu
+- [Hiromi Mochiyama](http://www.frlab.iit.tsukuba.ac.jp/member/motiyama.html), Secretary, Tsukuba University
 - [Yutaka Iino](https://researchmap.jp/yutakaiino?lang=en), Member, Waseda University
 - [Tadahiro Taniguchi](http://www.tanichu.com/), Member, Ritsumeikan Univesity
 - [Takeshi Hatanaka](http://is.eei.eng.osaka-u.ac.jp/hatanaka/index.php), Member, Tokyo Institute of Technology
 - [Kazunori Hayashi](https://kazunorihayashi.github.io/index_e.html), Member, Kyoto University
 - [Yutaka Hori](https://hori.appi.keio.ac.jp/en), Member, Keio University
 - [Yasutoshi Makino](https://www.k.u-tokyo.ac.jp/pros-e/person/yasutoshi_makino/yasutoshi_makino.htm), Member, The University of Tokyo
-- [Hiromi Mochiyama](http://www.frlab.iit.tsukuba.ac.jp/member/motiyama.html), Member, Tsukuba University
