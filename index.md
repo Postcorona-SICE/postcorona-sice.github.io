@@ -5,10 +5,73 @@ English/[Japanese](index_jp.md)
 SICE has launched a new special Working Group for Post Corona Future Society in Japan. 
 
 ## Workshops
-- The second workshop on postcorona future society will be virtually held on 22nd/July/2020!
-Please check [this page](https://postcorona-sice.github.io/ws2020_2_en.html).
-- The first workshop on postcorona future society was virtually held on 6th/June/2020.
-Please check [this page](https://postcorona-sice.github.io/ws2020_1_en.html).
+- *New Normal by Soft Robotics*
+  - 28th/Nov/2020
+  - Presenters:
+    - Fumihide Tanaka (Tsukuba University)
+    - Hidemitsu Furukawa (Yamagata University)
+    - Shoko Miyagawa (Keio University)
+    - Shinichi Hirai (Ritsumeikan University)
+    - Yasutoshi Makino (The University of Tokyo)
+    - Hiromi Mochiyama (Tsukuba University)
+    - Suzumori Koichi (Tokyo Institute of Technology)
+  - Organizers
+    - Hiromi Mochiyama (Tsukuba University)
+- *Mobility for the Corona Era*
+  - 30th/Oct/2020
+  - Presenters
+    - Toshiya Kaihara (Kobe University)
+    - Masaki Ito (The University of Tokyo)
+    - Chinatsu Hamada (I-DO)
+    - Toru Namerikawa (Keio University)
+    - Yoshiaki Ushifusa (The University of Kitakyushu)
+  - Organizers
+    - Yoshiaki Ushifusa (The University of Kitakyushu)
+    - Masaaki Nagahara (The University of Kitakyushu)
+    - Yutaka Iino (Waseda University)
+- *Modeling Human and Society --- Intersection of Economics, AI, and Control*
+  - 11th/Sept/2020
+  - Presenters
+    - Takanori Ida (Kyoto University)
+    - Yoshiaki Ushifusa (The University of Kitakyushu)
+    - Kenji Kashima (Kyoto University)
+    - Tadahiro Taniguchi (Ritsumeikan University, Panasonic)
+    - Shigeo Matsubara (Osaka University)
+  - Organizers
+    - Masaaki Nagahara (The University of Kitakyushu)
+    - Takeshi Hatanaka (Tokyo Institute of Technology)
+    - Tadahiro Taniguchi (Ritsumeikan University, Panasonic)
+- *Virtual Reality for the Corona Era*
+  - 29th/Aug/2020
+  - Presenters
+    - Susumu Tachi (The University of Tokyo)
+    - Hiroyuki Shinoda (The University of Tokyo)
+    - Masahiko Inami (The University of Tokyo)
+    - Takuji Narumi (The University of Tokyo)
+    - Yasutoshi Makino (The University of Tokyo)
+  - Organizers
+    - Yasutoshi Makino (The University of Tokyo)
+    - Hiromi Mochiyama (Tsukuba University)
+- [*Social Distance and Mobility/Robotics/IoT*](https://postcorona-sice.github.io/ws2020_2_en.html)
+  - 22nd/July/2020
+  - Presenters
+    - Gen Endo (Tokyo Institute of Technology)
+    - Kenji Kawashima (The University of Tokyo)
+    - Kei Sakaguchi (Tokyo Institute of Technology)
+    - Huan-Bang Li (NICT)
+    - Takeshi Hatanaka (Tokyo Institute of Technology)
+  - Organizers
+    - Takeshi Hatanaka (Tokyo Institute of Technology)
+    - Kazunori Hayashi (Kyoto University)
+- [*Systems, Control, and Network Theory of Pandemics*](https://postcorona-sice.github.io/ws2020_1_en.html)
+  - 6th/June/2020
+  - Presenters
+    - Hidenori Kimura (SIC Vice-President, Professor Emeritus of The University of Tokyo)
+    - Koji Tsumura (The University of Tokyo)
+    - Masaki Ogura (Osaka University)
+    - Yuichi Tanaka (Tokyo University of Agriculture and Technology)
+    - Yutaka Hori (Keio University)
+    - Masaaki Nagahara (The University of Kitakyushu)
 
 ## Mission
 Society 5.0, proposed by Japan, is based on the technology of cyber-physical systems,
@@ -42,9 +105,10 @@ The proposal of the working group will provide an opportunity for researchers an
 - Akira Maeda, Adviser, JST
 - Masaharu Ogawa, Adviser, Mitsubishi Electric
 - [Hiromi Mochiyama](http://www.frlab.iit.tsukuba.ac.jp/member/motiyama.html), Secretary, Tsukuba University
-- [Yutaka Iino](https://researchmap.jp/yutakaiino?lang=en), Member, Waseda University
-- [Tadahiro Taniguchi](http://www.tanichu.com/), Member, Ritsumeikan Univesity
 - [Takeshi Hatanaka](http://is.eei.eng.osaka-u.ac.jp/hatanaka/index.php), Member, Tokyo Institute of Technology
 - [Kazunori Hayashi](https://kazunorihayashi.github.io/index_e.html), Member, Kyoto University
 - [Yutaka Hori](https://hori.appi.keio.ac.jp/en), Member, Keio University
+- [Yutaka Iino](https://researchmap.jp/yutakaiino?lang=en), Member, Waseda University
 - [Yasutoshi Makino](https://www.k.u-tokyo.ac.jp/pros-e/person/yasutoshi_makino/yasutoshi_makino.htm), Member, The University of Tokyo
+- [Kazuya Sato](http://control.me.saga-u.ac.jp/sato.html), Member, Saga University
+- [Tadahiro Taniguchi](http://www.tanichu.com/), Member, Ritsumeikan Univesity
